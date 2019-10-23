@@ -1,4 +1,4 @@
-### Jquery Vue Emulator 0.1
+# Jquery Vue Emulator 0.1
 Small API that uses JQuery methods to emulate the definition of the "v-model" directive, the methods and the refs of Vue.js.
 
 Note: This extension has no reactivity system, it is only useful to link DOM elements with an object and methods in the same way that you work in Vue.js, but only using Jquery. It is only for use in basic projects with jquery, if you want to develop a complex project, use Vuejs.
